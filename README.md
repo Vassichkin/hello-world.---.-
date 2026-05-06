@@ -1,2 +1,6 @@
-# hello-world.---.-
-Место проектирования Электрических Существ\\创造生物。电磁波。
+#include <stdio.h>
+int main (void)
+(
+printf("Пипелаз.\n");
+return 0;
+)
